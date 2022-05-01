@@ -1,7 +1,6 @@
 package main
 
 import(
-    "./hello"
     "github.com/kfuku1634/test/test9"
 )
 

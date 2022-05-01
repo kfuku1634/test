@@ -1,9 +1,9 @@
-package main
+package test 
 
 import (
 	"fmt"
 )
 
-func main() {
+func Hoge() {
     fmt.Println("Hello World")
 }
